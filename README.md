@@ -1,4 +1,6 @@
 # slack_multi_poster
+要求:python2, pyQt4
+
 
 入力するもの
 
